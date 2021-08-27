@@ -5,3 +5,6 @@ HOW TO USE?
 - The result is in the "result/dist" folder 
 
 Please remember that you still need the python file to run the executable of your python program.
+
+Note : 
+I create this program in windows so I don't really know is it working in MacOs or other operating system
